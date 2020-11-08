@@ -1,3 +1,8 @@
+original repo here https://git.suckless.org/dmenu
+site https://tools.suckless.org/dmenu/
+
+my personal fork of dmenu with gruvbox dark colorscheme
+
 dmenu - dynamic menu
 ====================
 dmenu is an efficient dynamic menu for X.
